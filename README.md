@@ -1,2 +1,2 @@
 # Whatsappdevelopment
-this repository is to develop a chat apllication
+this repository is to develop a chat application
